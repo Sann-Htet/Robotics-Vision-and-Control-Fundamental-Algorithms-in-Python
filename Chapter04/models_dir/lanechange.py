@@ -8,7 +8,7 @@ Copyright (c) 2021- Peter Corke
 
 from bdsim import *
 
-sim = BDSim()
+sim = BDSim(animation=True)
 
 bd = sim.blockdiagram()
 
