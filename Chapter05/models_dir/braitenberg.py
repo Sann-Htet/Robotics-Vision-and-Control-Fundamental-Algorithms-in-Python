@@ -52,7 +52,7 @@ vplot = bd.VEHICLEPLOT(
     scale=[0, 100],
     size=5,
     shape="box",
-    trail=True,
+    # trail=True,
     name="sensor field",
     init=background_graphics,
 )
